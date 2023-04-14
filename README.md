@@ -1,4 +1,4 @@
-# Running-Algos of computer vision( AR included)
+# Running-Algos of computer vision( AR,3D included)
 *<i><ins>mainly for AR,3D based environment</ins></i><br/>
 <b><i>Inspired by work named "Soccer on your tabletop"</i></b><br/>
 
