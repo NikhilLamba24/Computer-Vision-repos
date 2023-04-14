@@ -1,5 +1,5 @@
 # Running-Algos of computer vision( AR included)
-*<i>does include consideration of AR based setup></i><br/>
+*<i>does include consideration of AR based setup</i><br/>
 <b><i>Inspired by work named "Soccer on your tabletop"</i></b><br/>
 
 <b>* This repo includes debugging of their entire code and reproducing the parts that are missing as per their pipeline-><br/>
