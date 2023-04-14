@@ -1,4 +1,4 @@
-# Running-Algos of computer vision( AR included>
+# Running-Algos of computer vision( AR included)
 *<i>does include consideration of AR based setup></i><br/>
 <b><i>Inspired by work named "Soccer on your tabletop"</i></b><br/>
 
